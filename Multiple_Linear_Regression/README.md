@@ -20,15 +20,15 @@
 
 1. Clone the repository to your local environment:
 
-   git clone https://github.com/joao-pedro-dp/Linear_Regression/Multiple_Linear_Regression
+         git clone https://github.com/joao-pedro-dp/Linear_Regression/Multiple_Linear_Regression
 
 2. Install the dependencies listed in the `requirements.txt` file:
 
-   pip install -r requirements.txt
+         pip install -r requirements.txt
 
 3. Run the Python script:
 
-   python Multiple_Regression.py
+         python Multiple_Regression.py
 
 4. Enter the requested input values to predict productivity.
 
