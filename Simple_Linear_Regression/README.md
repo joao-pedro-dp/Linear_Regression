@@ -22,15 +22,15 @@ A graph displays the real data, the regression line, and the errors.
 
 1. Clone the repository to your local environment:
 
-   git clone https://github.com/joao-pedro-dp/Linear_Regression/Simple_Linear_Regression
+         git clone https://github.com/joao-pedro-dp/Linear_Regression/Simple_Linear_Regression
 
 2. Install the dependencies listed in the `requirements.txt` file:
 
-   pip install -r requirements.txt
+         pip install -r requirements.txt
 
 3. Run the Python script that you want:
 
-   python (Project Name Here).py
+         python (Project Name Here).py
 
 4. Enter the requested input values to predict productivity.
 
