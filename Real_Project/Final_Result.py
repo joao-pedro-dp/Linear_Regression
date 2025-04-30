@@ -2,7 +2,7 @@ import pandas as pd
 from sklearn.model_selection import train_test_split
 import statsmodels.api as sm
 
-df = pd.read_csv('Power_Plant.csv')
+df = pd.read_csv('https://raw.githubusercontent.com/joao-pedro-dp/Linear_Regression/refs/heads/main/Real_Project/Power_Plant.csv')
 df = df.rename(columns={'AT': 'Temperature', 'V': 'Air Pressure','RH': 'Air Humidity','AP': 'ATM Pressure','PE': 'Energy Produced',})
 
 y = df['Energy Produced']
